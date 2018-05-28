@@ -10,7 +10,7 @@ var template = (
 
 var app = {
   title: "Indecision App",
-  subtitle: "Put your life in a hand of the computer",
+  subtitle: "Put your life in the hand of the computer",
   options: []
   // options: ['One', 'Two']
 }
